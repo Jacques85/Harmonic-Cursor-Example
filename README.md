@@ -6,4 +6,4 @@ This application demonstrates how to add harmonic cursors to a LabVIEW graph usi
 ![Image of Main UI](/readme_files/MainUI.PNG)
 
 Source code is provided in LabVIEW 2019 format.
-If you are using an earlier version you can find ilestrations in the Image_format folder.
+If you are using an earlier version you can find illustrations in the Image_format folder.
